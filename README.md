@@ -6,3 +6,6 @@ attributes, and one output variable. Further information on the data set follows
 The training data set is USCensusTraining.csv and contains all the fields for 25,000
 records. The test data set is USCensusTest.csv; it contains 7561 records, and is missing
 the income field
+
+This was a part of the Group Assignment where we have used Neural Networks to predict whether an 
+individual will earn more than 50k or not.
